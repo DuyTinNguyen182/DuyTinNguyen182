@@ -1,6 +1,8 @@
-# Hi 👋, I'm Duy Tin!
+# Hi 👋, I'm Duy Tín!
 
-![Coding](https://your-image-link-here)
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/12345678/coding.gif](https://github.com/user-attachments/assets/d8481475-a891-43bb-bf8d-13356edd9fa2)" width="700" />
+</p>
 
 <!--
 **DuyTinNguyen182/DuyTinNguyen182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
