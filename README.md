@@ -5,7 +5,7 @@
 </p>
 
 🎓 IT Student | 🌱 Web Developer  
-💻 ReactJS • Node.js • MongoDB
+💻 ReactJS • Node.js • MongoDB  
 Email: duytinnguyen84@gmail.com
 
 <!--
