@@ -6,6 +6,7 @@
 
 🎓 IT Student | 🌱 Web Developer  
 💻 ReactJS • Node.js • MongoDB
+Email: duytinnguyen84@gmail.com
 
 <!--
 **DuyTinNguyen182/DuyTinNguyen182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
